@@ -14,6 +14,7 @@ medical_images_project/
 │   └── 11_AP_Ax5.00mm/                     # Reference DICOM series
 │   └── 11_AP_Ax5.00mm_ManualROI_Liver.dcm  # Segmented liver DICOM file
 │   └── 11_AP_Ax5.00mm_ManualROI_Tumor.dcm  # Segmented tumor DICOM file
+└── requirements.txt                        # Contains the list of the packages needed to execute code
 └── README.md                               
 ```
 ---  
