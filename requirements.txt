@@ -1,0 +1,9 @@
+numpy
+matplotlib
+pydicom
+Pillow
+scipy
+scikit-image
+scikit-learn
+pywavelets
+napari
