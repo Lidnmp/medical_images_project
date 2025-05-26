@@ -23,6 +23,10 @@ Although task 2 is separate from task 1, they are sequentially related. That is 
 
 ---
 
+```
+pip install -r requirements.txt
+```
+
 ## Objective
 DICOM Loading and Visualization
 - Load and visualize DICOM images from the HCC-TACE-Seg dataset.
