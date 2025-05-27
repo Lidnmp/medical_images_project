@@ -10,7 +10,7 @@ medical_images_project/
 ├── animation_gif/                          # Contains projections and gif from the MIP
 ├── 3d_slicer_photos/                       # Contains the screenshots of the 3d slicer
 ├── task2_data/                             # Contains the np arrays used as data input
-├── 1447                                    # Specifies intentionally untracked files that Git should ignore
+├── 1447                                    
 │   └── 11_AP_Ax5.00mm/                     # Reference DICOM series
 │   └── 11_AP_Ax5.00mm_ManualROI_Liver.dcm  # Segmented liver DICOM file
 │   └── 11_AP_Ax5.00mm_ManualROI_Tumor.dcm  # Segmented tumor DICOM file
