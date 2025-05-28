@@ -9,7 +9,7 @@ This project involves handling DICOM medical images, where the goal is to load, 
 medical_images_project/
 ├── animation_gif/                          # Contains projections and gif from the MIP
 ├── 3d_slicer_photos/                       # Contains the screenshots of the 3d slicer
-├── task2_data/                             # Contains the np arrays used as data input
+├── task2_data/                             # Contains the np arrays used as data input ct_images is in zip
 ├── 1447                                    
 │   └── 11_AP_Ax5.00mm/                     # Reference DICOM series
 │   └── 11_AP_Ax5.00mm_ManualROI_Liver.dcm  # Segmented liver DICOM file
@@ -21,7 +21,7 @@ medical_images_project/
 
 **Warnings**  
 Although task 2 is separate from task 1, they are sequentially related. That is to say, in order to execute task 2 without problems, the liver and tumor mask must be resliced in the same form as the original images and of type uint8. And in turn for the original images it is supposed that their visualization is already improved. Also the task2_data folder contains arrays with these requirements.
-Task2 windowed_ct_images.npy is in zipped in rar, then is need to be unzip to be used.
+Task2 windowed_ct_images.npy is in zipped, then is need to be unzip to be used.
 
 ---
 
